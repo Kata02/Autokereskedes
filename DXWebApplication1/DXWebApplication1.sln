@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DXWebApplication1", "DXWebApplication1\DXWebApplication1.csproj", "{11AEAAFE-8621-4927-BCEB-138D15C1F931}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DXWebApplication1Test", "DXWebApplication1Test\DXWebApplication1Test.csproj", "{2D870F10-B436-4C1D-B59F-9C77EB630AC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11AEAAFE-8621-4927-BCEB-138D15C1F931}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11AEAAFE-8621-4927-BCEB-138D15C1F931}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11AEAAFE-8621-4927-BCEB-138D15C1F931}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11AEAAFE-8621-4927-BCEB-138D15C1F931}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D870F10-B436-4C1D-B59F-9C77EB630AC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D870F10-B436-4C1D-B59F-9C77EB630AC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D870F10-B436-4C1D-B59F-9C77EB630AC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D870F10-B436-4C1D-B59F-9C77EB630AC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
